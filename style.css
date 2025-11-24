@@ -1,0 +1,73 @@
+body{
+    width: 150vh;
+    /* background-color: rebeccapurple; */
+}
+.everything {
+    color: black;
+    height: 100%;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.tobi {
+    width: 100%;
+    height: 15vh;
+    align-items: center;
+    /* background-color: aqua; */
+    justify-content: center;
+    display: flex;
+    gap: 60px;
+
+}
+
+.section1 {
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.first {
+    width: 30%;
+    height: 100%;
+    padding-left: 40px;
+}
+.second {
+    width: 70%;
+    height: 100%;
+}
+img {
+    width: 70%%;
+    height: 70%;
+    border-radius: 20px;
+}
+
+.era {
+    font-size: 40px;
+}
+
+.rae {
+    font-size: 20px;
+}
+
+.tobi h1:hover{
+   color: aqua;
+   font-size: 40px;
+   /* animation: ease 2s; */
+}
+.up h1{
+    color: black;
+}
+.down h1{
+    color: black;
+}
+.tobi h1{
+    color: black;
+    font-size: 25px;
+    justify-content: center;
+    display: flex;
+}
